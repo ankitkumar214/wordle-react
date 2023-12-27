@@ -1,6 +1,5 @@
 # ReactJS Wordle Clone
 
-Link - https://abhicodes737.github.io/reactjs-wordle/
 ---
 **Technologies Used:**  
 - ReactJS via Vite
